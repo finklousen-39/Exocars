@@ -193,4 +193,4 @@ This repository serves as the official landing page for **EXOcars**. The softwar
 **Get the most recent version of EXOcars today!**
 
 ---
-**Last updated:** 2026-11-14 07:11:47 UTC
+**Last updated:** 2026-11-14 14:38:47 UTC
